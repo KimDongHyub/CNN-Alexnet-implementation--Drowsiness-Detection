@@ -9,5 +9,14 @@ Korean
 2. 구현한 DNN 구조의 모델과 OpenCV,PyQT5 라이브러리를 사용하여 실시간 눈감음 감지 프로그램 개발 
 
 
+
+
 https://user-images.githubusercontent.com/50415338/151277487-9a02f777-3892-43e8-be42-f0bd3ecf0aad.mp4
 
+Principle/원리
+
+E- When you close your eyes, the program detects it and increases the Warning Count
+K- 눈을 감으면 프로그램이 이를 감지하고 Warning Count를 증가시킨다
+
+E- When a specific count is reached, a warning message is output
+K- 특정 Count에 도달하면 경고 메세지를 출력한다
