@@ -18,5 +18,5 @@ Principle/원리
 - When you close your eyes, the program detects it and increases the Warning Count
 - 눈을 감으면 프로그램이 이를 감지하고 Warning Count를 증가시킨다
 
-- When a specific count is reached, a warning message is output
+- When a specific count is reached, a warning message pops out
 - 특정 Count에 도달하면 경고 메세지를 출력한다
